@@ -8,7 +8,7 @@
 - 🌱 I am currently learning web backend and OpenGL based GUI development and 3D viewer development .
 - 😄 Pronouns: Autonomus Driving, Embedded Linux, Firmware
 - 💞️ I am looking for collaborations in autonomous driving and robotics open source development.
-- 📫 How to reach me damki.ahn@gmail.com
+- 📫 How to reach me damgi.dev@gmail.com
 - ⚡ Fun fact: I am always looking for outsourcing~^^.
 
 
