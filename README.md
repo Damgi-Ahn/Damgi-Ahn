@@ -18,7 +18,7 @@
   <div align=center>
  
   ## Most Used Language
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamGiAhn&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamGi-Ahn&layout=compact)
  
   ## My Skills
  
