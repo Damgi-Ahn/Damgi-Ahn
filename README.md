@@ -29,8 +29,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
  
   ### Framework
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="python" width="40" height="40" />
- 
+  <img src="https://github.com/Damgi-Ahn/Damgi-Ahn/blob/main/assets/icon/ros1-noetic.png" alt="ros1" width="40" height="40" />
+  <img src="https://github.com/Damgi-Ahn/Damgi-Ahn/blob/main/assets/icon/ros2-humble.jpeg" alt="ros1" width="40" height="40" />
   ### IDE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
